@@ -1,0 +1,1 @@
+console.log('Welcome! Open each lesson to begin.');
